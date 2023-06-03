@@ -69,4 +69,4 @@ https://www.atlassian.com/ru/git/tutorials/saving-changes
 
 https://www.atlassian.com/ru/git/tutorials/undoing-changes
 
-etd 
+etd  
