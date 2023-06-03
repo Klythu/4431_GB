@@ -53,6 +53,7 @@ _git push_ - add changes to online rep
 4. save and commit changes
 5. pull it to your acc 
 6. make request on github.com 
+![file lost](2023-06-03_16-45-13.png)
 
 
 
