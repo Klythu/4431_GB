@@ -51,7 +51,7 @@ _git push_ - add changes to online rep
 2. create new brunch
 3. add changes 
 4. save and commit changes
-5. pull it to your acc
+5. pull it to your acc 
 6. make request on github.com 
 
 
